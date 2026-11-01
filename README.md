@@ -1,21 +1,28 @@
 # Hi, I'm Rohan Kadam 👋
 
 **B.Tech Computer Science & Engineering student at MGM University**  
-Aspiring Software Developer · Exploring Frontend, Backend & Full-Stack Development
+Aspiring Software Developer · Python · Full-Stack Development · Cybersecurity
 
-I'm interested in building practical software applications, learning how systems work end to end, and improving my programming and problem-solving skills. I also enjoy exploring cybersecurity and emerging technologies.
+I'm interested in building practical software applications, understanding how systems work end to end, and improving my programming and problem-solving skills. I enjoy exploring technologies across frontend development, backend systems, databases, and cybersecurity.
 
-## Projects
+## Featured projects
 
 ### [SOET Connect](https://github.com/rohan26-bit/SOET-Connect)
 An academic team project: an alumni engagement portal for the School of Engineering and Technology, with role-based experiences for students, alumni, and administrators.
 
-**Project technologies:** Next.js, React, TypeScript, Python, FastAPI, Supabase PostgreSQL.
+**Project technologies:** Next.js, React, TypeScript, Python, FastAPI, Supabase PostgreSQL.  
+**My focus:** Frontend development and UI/UX.
 
 ### [BlockBazaar](https://github.com/rohan26-bit/blockbazaar)
 A blockchain marketplace prototype for creating product listings and purchasing products through an Ethereum smart contract on a local Ganache development network.
 
 **Project technologies:** React, JavaScript, Solidity, Ethereum, Web3.js, Truffle, Ganache.
+
+## Experience & leadership
+
+- **MedTech R&D Intern** — wearable sensor research.
+- **Project & Innovation Head** — Cybersecurity Club.
+- **Smart India Hackathon 2025** — shortlisted.
 
 ## Technologies I've worked with or explored
 
@@ -26,11 +33,6 @@ A blockchain marketplace prototype for creating product listings and purchasing 
 - **Tools:** Git, GitHub, VS Code
 
 I'm actively strengthening my programming fundamentals and developing practical skills across the software development stack.
-
-## Highlights
-
-- Project & Innovation Head — Cybersecurity Club
-- Smart India Hackathon 2025 — Shortlisted
 
 ## Currently focusing on
 
