@@ -18,9 +18,8 @@ A blockchain marketplace prototype for creating product listings and purchasing 
 
 **Project technologies:** React, JavaScript, Solidity, Ethereum, Web3.js, Truffle, Ganache.
 
-## Experience & leadership
+## Leadership & achievements
 
-- **MedTech R&D Intern** — wearable sensor research.
 - **Project & Innovation Head** — Cybersecurity Club.
 - **Smart India Hackathon 2025** — shortlisted.
 
